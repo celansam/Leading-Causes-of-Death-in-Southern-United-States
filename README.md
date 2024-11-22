@@ -1,5 +1,6 @@
 # Leading Causes of Death in the Southern Region of the US
-
+* This repository contains the raw dataset about leading causes of death in the US as a whole and the newly created subset, focusing on the southern region of the US, using the raw data.
+* It also contains a .ipynb file that has instructions on how to create the new subset from the raw data. 
 
 ## What is the purpose of this data?
 * This data provides the number of deaths and the age-adjusted death rates for the top 10 causes of death in the US starting in 1999, specifically focusing on the southern region (Texas, New Mexico, Oklahoma, and Arizona).
