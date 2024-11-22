@@ -6,7 +6,7 @@
 * This data can be for policymakers and government officials looking for patterns or individuals interested in the leading causes of death in the South
 
 ## Where is this data from?
-* This data is from the data.gov website pulling data from [NCHS]([url](https://catalog.data.gov/dataset/nchs-leading-causes-of-death-united-states)) reports. 
+* This data is from the data.gov website pulling data from [NCHS]([https://catalog.data.gov/dataset/nchs-leading-causes-of-death-united-states]) reports. 
 
 ## What can be used with this data and what does it show us?
 
@@ -15,6 +15,7 @@
 
 ### Data Visualization
 <img width="520" alt="image" src="https://github.com/user-attachments/assets/f932405c-3cd2-49d4-a67c-a915f0bc437a">
+
 * This data visualization specifically shows the age-adjusted death rate for the leading causes of death in the South in the year 1999.
 
 
