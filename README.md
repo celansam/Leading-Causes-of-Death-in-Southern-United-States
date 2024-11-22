@@ -21,8 +21,8 @@
 * This data visualization (created with Excel) specifically shows the age-adjusted death rate for the leading causes of death in the South in the year 1999.
 
 ### Where do you start?
-* Browse through the data folder to find the South region subset as well as the original dataset from the data.gov [website](https://catalog.data.gov/dataset/nchs-leading-causes-of-death-united-states)
-* The analysis folder contains the instructions on how to reproduce this subset as well as the code used to create the new dataset. 
+* Browse through the data folder to find the [South region subset](https://github.com/celansam/Leading-Causes-of-Death-in-the-Southern-Region-of-the-US/blob/main/data/South_subset.csv) as well as the [original dataset](https://github.com/celansam/Leading-Causes-of-Death-in-the-Southern-Region-of-the-US/blob/main/data/Leading_Causes_of_Death.csv) from the data.gov [website](https://catalog.data.gov/dataset/nchs-leading-causes-of-death-united-states)
+* The analysis folder contains a [.ipynb file](https://github.com/celansam/Leading-Causes-of-Death-in-the-Southern-Region-of-the-US/blob/main/analysis/CausesofDeath.ipynb) that has instructions on how to reproduce this subset as well as the code used to create the new dataset. 
 
 ## Acknowledgements
 * This repository was created for Professor Gotzler's ENGL-105.075 class, as a project for our unit on writing in the Natural Sciences. All data is publicly accessible.
