@@ -6,7 +6,7 @@
 * This data can be for policymakers and government officials looking for patterns or individuals interested in the leading causes of death in the South
 
 ## Where is this data from?
-* This data is from the data.gov website pulling data from [NCHS]([https://catalog.data.gov/dataset/nchs-leading-causes-of-death-united-states]) reports. 
+* This data is from the data.gov website pulling data from [NCHS](https://catalog.data.gov/dataset/nchs-leading-causes-of-death-united-states) reports. 
 
 ## What can be used with this data and what does it show us?
 
