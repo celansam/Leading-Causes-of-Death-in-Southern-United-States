@@ -3,8 +3,8 @@
 * It also contains a .ipynb file that has instructions on how to create the new subset from the raw data. 
 
 ## What is the purpose of this data?
-* This data provides the number of deaths and the age-adjusted death rates for the top 10 causes of death in the US starting in 1999, specifically focusing on the southern region (Texas, New Mexico, Oklahoma, and Arizona).
-* This data can be for policymakers and government officials looking for patterns or individuals interested in the leading causes of death in the South
+* The raw data provides the number of deaths and the age-adjusted death rates for the top 10 causes of death in the US starting in 1999, while the subset specifically focuses on the southern region (Texas, New Mexico, Oklahoma, and Arizona).
+* This data can be for policymakers and government officials looking for patterns or individuals interested in the leading causes of death in the South.
 
 ## Where is this data from?
 * This data is from the data.gov website pulling data from [NCHS](https://catalog.data.gov/dataset/nchs-leading-causes-of-death-united-states) reports. 
